@@ -38,6 +38,15 @@ explanation: *It is presumed to occur because motion perception is always relati
 This effect explain a lot of weird visions in a lot of domains such as many "UFOs" when looking at the starts (I have experienced myself autokinetic stars in Corsica and can now retro-understand it)
 interest: 14/20, niche 7/20
 
+# Physics
+## Radiations
+[Cherenkov radiation](https://en.wikipedia.org/wiki/Cherenkov_radiation): 
+Mind Blowing, radiations can go Faster Than Light in some common materials!
+[Askaryan radiation](https://en.wikipedia.org/wiki/Askaryan_radiation):
+A subset of Cherenkov radiations produce Askaryan radiations as a side effect, which make them detectable in some common spectrum (e.g. radio)
+This might help neutrinos detections.
+
+
 
 
 
