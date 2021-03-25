@@ -12,7 +12,7 @@ Shall we begin:
 
 [The Abscopal effect](https://en.wikipedia.org/wiki/Abscopal_effect):
 
-Something I strongly like about this topical overview of Effects is that it extremelly inter-disciplinary.
+Something I strongly like about this topical overview of Effects is that it is extremelly inter-disciplinary.
   * A Metastasis is a pathogenic agent's spread from an initial or primary site to a different or secondary site within the host's body.
   * A malignant Cancer is a group of diseases involving uncontrolled abnormal cell growth with the potential to invade or spread to other parts of the body.[2][8] These contrast with benign tumors, which do not spread.
  Eventually, (if no action is taken) malignant cancers becomes metastatic.
