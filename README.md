@@ -41,7 +41,7 @@ interest: 14/20, niche 7/20
 # Physics
 ## Radiations
 [Cherenkov radiation](https://en.wikipedia.org/wiki/Cherenkov_radiation): 
-Mind Blowing, radiations can go Faster Than Light in some common materials! <br/>
+Mind Blowing, charged particles can go Faster Than Light in some common materials! <br/>
 [Askaryan radiation](https://en.wikipedia.org/wiki/Askaryan_radiation):
 A subset of Cherenkov radiations produce Askaryan radiations as a side effect, which make them detectable in some common spectrum (e.g. radio)
 This might help neutrinos detections.
